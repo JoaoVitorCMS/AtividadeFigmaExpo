@@ -29,7 +29,7 @@ export default function HomeScreen() {
         <Text style={styles.buttonText}>Entrar</Text>
       </TouchableOpacity>
 
-      <Text style={styles.footer}>erro 404</Text>
+   
     </SafeAreaView>
   );
 }
